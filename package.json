@@ -1,0 +1,11 @@
+{
+  "name": "betting_game_node",
+  "version": "1.0.0",
+  "description": "js betting game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Natalie",
+  "license": "ISC"
+}
