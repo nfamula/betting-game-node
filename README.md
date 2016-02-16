@@ -1,4 +1,4 @@
-# betting-game-node
+# Betting Game with Node
 Betting game using js node lighthouse labs week 7 
 
 Command line program.
